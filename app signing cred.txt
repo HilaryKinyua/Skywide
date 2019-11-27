@@ -1,0 +1,3 @@
+Keystore path: C:\Users\Multikreative Kenya\Desktop\Apps\Android-SmartWebView\megakey.jks
+Alias: megadev
+Password: VBgk957Vflkhf
